@@ -1,0 +1,2 @@
+defaults write -g com.apple.mouse.scaling -1
+defaults write .GlobalPreferences com.apple.mouse.scaling -1
